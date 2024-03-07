@@ -1,0 +1,8 @@
+{
+	"extends": "@tsconfig/node20/tsconfig.json",
+	"compilerOptions": {
+		"outDir": "../dist/server",
+		"noImplicitOverride": true,
+		"downlevelIteration": true,
+	},
+}
